@@ -29,11 +29,7 @@ Transparent endpoint security
 ## In Action
 
 * [Video demonstration of detection and prevention capabilities](TODO)
-* [Recorded attacks against the WhiteBeam 0.2 honeypot](TODO) <font color="red">[ LIVE ]</font>
-
-TODO: New video coming soon!
-
-[![asciicast](https://asciinema.org/a/296135.svg)](https://asciinema.org/a/296135)
+* [Recorded attacks against the WhiteBeam honeypot](https://asciinema.org/~wbhoneypot)
 
 ## Installation
 
